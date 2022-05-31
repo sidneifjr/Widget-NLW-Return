@@ -23,7 +23,6 @@ Um widget criado durante as aulas do NLW Return da Rocketseat.
 
 2. `yarn run dev` para inicializar.
 
-
 #### Prod
 
 `yarn run build`
